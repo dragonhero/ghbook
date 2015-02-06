@@ -1,9 +1,9 @@
 # ファイル
 .DS_Store
+old_README.md
 
 # ディレクトリ
 /tmp
 
 # ワイルドカードログ
 *.log
-old_README.md
